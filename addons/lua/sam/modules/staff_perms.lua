@@ -8,7 +8,7 @@ if SAM_LOADED then return end
 local cmdPerms = {
     ["noclip"] = true,
     ["god"] = true,
-	  ["banid"] = true,
+    ["banid"] = true,
     ["ban"] = true,
     ["kick"] = true,
 }
