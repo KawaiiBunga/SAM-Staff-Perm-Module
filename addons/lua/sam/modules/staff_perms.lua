@@ -10,7 +10,7 @@ local cmdPerms = {
     ["god"] = true,
     ["banid"] = true,
     ["ban"] = true,
-    ["kick"] = true,
+    ["kick"] = true
 }
 
 
