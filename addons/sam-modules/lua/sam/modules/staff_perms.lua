@@ -6,7 +6,19 @@ if SAM_LOADED then return end
 local cmdPerms = {
     ["noclip"] = true,
     ["god"] = true,
-	  ["banid"] = true
+    ["banid"] = true,
+    ["cloak"] = true,
+    ["uncloak"] = true,
+    ["gag"] = true,
+    ["ungag"] = true,
+    ["mute"] = true,
+    ["unmute"] = true,
+    ["freeze"] = true,
+    ["unfreeze"] = true,
+    ["strip"] = true,
+    ["bring"] = true,
+    ["goto"] = true,
+    ["return"] = true,
 }
 
 
